@@ -4,31 +4,33 @@
 
 ---
 
+
 ### 🛠 Tech Stack
-<!-- 아이콘은 shields.io 또는 simpleicons 활용 -->
-- **Languages**: ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Web/Frameworks**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **DevOps/Infra**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- **Languages & OS**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
 ### 📜 Certifications
 - **정보처리기사** (2025)
 - **RHCSA (Red Hat Certified System Administrator)** (2025)
-- ~~(추가 예정: 네트워크 관련 자격증 등)~~
+
 
 ---
 
 ### 🏆 Awards & Achievements
-- 🎓 **Capstone Project 우수상** – 머신러닝 기반 악성코드 탐지 모델
-- 🎮 **게임 개발 프로젝트** – 갤러그 스타일 안드로이드 게임
-- 🖥 **네트워크/서버 실습 구축** – 3-Tier 아키텍처, DNS/NFS/HAProxy
+- 📝 **논문 우수상** – 머신러닝 기반 악성코드 탐지 모델 연구
+
+---
+
+### 📂 Projects
+- 🎮 **순대런** – Unity를 이용한 러닝 액션 게임
+- 🧭 **장애인 길찾기 서비스** – Flask 기반 웹 서비스 및 교통 약자를 위한 최적 경로 안내 시스템
 
 ---
 
 ### 📫 Contact
-- Email: your_email@example.com  
-- Blog/Portfolio: [Notion/Velog 링크]  
-- LinkedIn: [링크]  
+- Email: alvin85202@gmail.com 
+
 
 ---
