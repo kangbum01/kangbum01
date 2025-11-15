@@ -12,6 +12,7 @@
 ---
 
 ### 📜 Certifications
+- **컴퓨터활용능력 1급** (2023)
 - **정보처리기사** (2025)
 - **RHCSA (Red Hat Certified System Administrator)** (2025)
 
