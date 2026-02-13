@@ -1,4 +1,4 @@
-## Hi there 👋
+## 서버의 고수가 될꺼야 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alvin852)](https://solved.ac/alvin852/)
 
