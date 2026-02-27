@@ -31,7 +31,7 @@
 - 🧭 **장애인 길찾기 서비스** – [Flask 기반 웹 서비스 및 교통 약자를 위한 최적 경로 안내 ](https://github.com/kangbum01/Pedestrian_application_for_disabled) (2024/9/30 ~ /2024/11/8)
 - **AI 음악 분석 기반 웹 서비스 자동화 플랫폼**
 - ***[On-premise ver](https://github.com/kangbum01/Beat) (2025/12/19 ~ 2026/1/31)***
-- ***[Hybrid-cloud ver90](https://github.com/kangbum01/HybridCloud06-04-2-Jenkins) (2026/2/2 ~ 제작중)***
+- ***[Hybrid-cloud ver90](https://github.com/kangbum01/HybridCloud06-04-2-Jenkins) (2026/1/31 ~ 2026/02/26)***
 ---
 
 ### 📫 Contact
