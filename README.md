@@ -12,10 +12,11 @@
 ---
 
 ### 📜 Certifications
-- **컴퓨터활용능력 1급** (2023)
+- **Certified Kubernetes Administrator (CKA)** (2026.02)
 - **RHCSA (Red Hat Certified System Administrator)** (2025.08)
 - **정보처리기사** (2025.09)
-- **Certified Kubernetes Administrator (CKA)** (2026.02)
+- **컴퓨터활용능력 1급** (2023)
+
 
 
 ---
